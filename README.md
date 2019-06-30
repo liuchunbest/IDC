@@ -1,1 +1,1 @@
-# IDC
+# This project is to implement the software feature extraction approach introduced in the paper of "Negar Hariri, Carlos Castro-Herrera, Mhdi Mirakhorli, Jane Cleland-Huang, Bamshad Mobasher, 2013. Supporting domain analysis through mining and recommending features from online product listings. IEEE Transactions on Software Engineering, 39 (12):1736-1752."
